@@ -1,22 +1,22 @@
-# 🎓 myuniversity – Modern Educational Website Template
+# myuniversity – Modern Educational Website Template
 
 **myuniversity** is a responsive, multi‑page educational website template built with **HTML5**, **CSS3**, and a simple PHP form handler.  
 It’s ideal for schools, universities, academies, or online learning platforms looking for a clean and modern web presence.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Fully responsive design  
-- ✅ Clean, modern UI  
-- ✅ Multi‑page structure (Home, About, Courses, Blog, Contact)  
-- ✅ Organized CSS components  
-- ✅ Simple PHP form handler  
-- ✅ Easy to customize and extend  
+-  Fully responsive design  
+-  Clean, modern UI  
+-  Multi‑page structure (Home, About, Courses, Blog, Contact)  
+-  Organized CSS components  
+-  Simple PHP form handler  
+-  Easy to customize and extend  
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 myuniversity/
@@ -36,7 +36,7 @@ myuniversity/
 
 ---
 
-## 🖥️ Pages Overview
+## Pages Overview
 
 | Page | Description |
 |------|-------------|
@@ -49,7 +49,7 @@ myuniversity/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**  
 - **CSS3**  
@@ -58,7 +58,7 @@ myuniversity/
 
 ---
 
-## 📦 Installation & Usage
+##  Installation & Usage
 
 1. Clone the repository:
    ```bash
@@ -77,7 +77,7 @@ myuniversity/
 
 ---
 
-## ✨ Customization
+##  Customization
 
 You can modify:
 
@@ -88,7 +88,7 @@ You can modify:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source.  
 You may modify and use it for personal or educational purposes.
